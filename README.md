@@ -5,4 +5,4 @@
 3. Log into your chess account
 4. Go to settings > profile > language : English
 3. Go to settings > board and pieces > piece notation : Text
-   [!] If you keep getting stuck at "Getting Stockfish..." then put "stockfish.exe" in the same folder as "Chess.exe"
+#### [!] If you keep getting stuck at "Getting Stockfish..." then put "stockfish.exe" in the same folder as "Chess.exe"
